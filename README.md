@@ -1,4 +1,4 @@
-# Sistema de Cadastro Escolar
+# Sistema de Cadastro de Alunos
 
 Este é um projeto Java que permite cadastrar Alunos. 
 Os dados são inseridos pelo usuário através do console usando a classe `Scanner`.
